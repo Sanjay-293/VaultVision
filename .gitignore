@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+.pytest_cache/
+
+# Node
+node_modules/
+.next/
+dist/
+build/
+.vercel
+*.log
+
+# Data & OS
+data/
+.DS_Store
+Thumbs.db
+
+# Presentation
+# presentation_assets/ # Uncomment if you want to exclude these large images
